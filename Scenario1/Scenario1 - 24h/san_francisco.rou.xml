@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+
+  <!-- Krauss Model -->
+  <vType id="on" length="5.0" minGap="2.0" maxSpeed="30.0"/>
+      <carFollowing-Krauss type="on" accel="3.0" decel="5.0" sigma="0" tau="1.64" />
+  
+
+    <vType id="off" length="5.0" minGap="2.0" maxSpeed="30.0"/>
+      <carFollowing-Krauss type="off" accel="3.0" decel="5.0" sigma="0" tau="1.64" />
+
+
+    <vType id="drop-off" length="5.0" minGap="2.0" maxSpeed="30.0"/>
+      <carFollowing-Krauss type="drop-off" accel="3.0" decel="5.0" sigma="0" tau="1.64" />
+ 
+
+
+</routes>

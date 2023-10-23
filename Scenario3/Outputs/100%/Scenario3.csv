@@ -1,0 +1,4 @@
+secondi,numero veicoli
+<200,252
+>200 && <500,146
+>500,3

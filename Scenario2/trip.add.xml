@@ -1,0 +1,2248 @@
+<routes>
+
+  <trip id="2404" color="1,1,0" from="84823308" to="-33789567" depart="0">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+
+<trip id="3302" color="1,1,0" from="31129765" to="8922291#0" depart="3">
+    
+  </trip>
+  <trip id="3770" color="1,1,0" from="142972028#1" to="283537380#0" depart="6">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="4055" color="1,1,0" from="-133781749" to="-27397692" depart="9">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="4181" color="1,1,0" from="142972028#1" to="8916922#1" depart="12">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_44" />
+</trip>
+<trip id="4802" color="1,1,0" from="-23883760" to="283537380#1" depart="15">
+    
+  </trip>
+  <trip id="4888" color="1,1,0" from="225806031#0" to="8922307" depart="18">
+    
+  </trip>
+  <trip id="5221" color="1,1,0" from="224384035#0" to="8921849#2" depart="21">
+    
+  </trip>
+  <trip id="5355" color="1,1,0" from="31129765" to="30831808#0" depart="24">
+    
+  </trip>
+  <trip id="5398" color="1,1,0" from="23959829#0" to="143617589#0" depart="27">
+    
+  </trip>
+  <trip id="6422" color="1,1,0" from="90077241" to="91181771#0" depart="30">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="6466" color="1,1,0" from="225806031#0" to="99231482" depart="33">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="6644" color="1,1,0" from="-23883761" to="364480601#0" depart="36">
+    
+  </trip>
+  <trip id="6953" color="1,1,0" from="90077241" to="91181771#5" depart="39">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="7473" color="1,1,0" from="8916767#0" to="8915752" depart="42">
+    
+  </trip>
+  <trip id="7871" color="1,1,0" from="-24310636#2" to="254299142#3" depart="45">
+    
+  </trip>
+  <trip id="7877" color="1,1,0" from="90077241" to="-225518512#1" depart="48">
+    
+  </trip>
+  <trip id="7879" color="1,1,0" from="224384035#0" to="225518512#0" depart="51">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="7891" color="1,1,0" from="8916792" to="8916922#0" depart="54">
+    
+  </trip>
+  <trip id="8247" color="1,1,0" from="254396707#6" to="47172745" depart="57">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8275" color="1,1,0" from="123867455" to="91181771#5" depart="60">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8619" color="1,1,0" from="27167762" to="35675861#1" depart="63">
+    
+  </trip>
+  <trip id="9132" color="1,1,0" from="27398045#1" to="8916922#1" depart="66">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_44" />
+</trip>
+<trip id="9774" color="1,1,0" from="133733582#2" to="8919338" depart="69">
+    
+  </trip>
+  <trip id="9905" color="1,1,0" from="123867455" to="p4#0" depart="72">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="10444" color="1,1,0" from="-23883761" to="99231468#0" depart="75">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="10775" color="1,1,0" from="-24310636#2" to="27054213#6" depart="78">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="11119" color="1,1,0" from="-8916048" to="179235223" depart="81">
+    
+  </trip>
+  <trip id="11317" color="1,1,0" from="90077241" to="-8919616#1" depart="84">
+    
+  </trip>
+  <trip id="11337" color="1,1,0" from="-35977367#2" to="224199014#0" depart="87">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="11567" color="1,1,0" from="-91181760#0" to="206662304#13" depart="90" />
+  <trip id="11582" color="1,1,0" from="123867455" to="111089307#4" depart="93">
+    
+  </trip>
+  <trip id="11994" color="1,1,0" from="84823308" to="32931798#1" depart="96">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="12781" color="1,1,0" from="144489137#0" to="224316522#0" depart="99">
+    
+  </trip>
+  <trip id="13861" color="1,1,0" from="-133755930#1" to="133733593#1" depart="102">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="14823" color="1,1,0" from="191296172#0" to="47108420#4" depart="105">
+    
+  </trip>
+  <trip id="15519" color="1,1,0" from="123867455" to="255330036#11" depart="108">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="15834" color="1,1,0" from="27398045#1" to="-225518512#1" depart="111">
+    
+  </trip>
+  <trip id="16672" color="1,1,0" from="142972028#1" to="-p3#1" depart="114">
+    
+  </trip>
+  <trip id="17642" color="1,1,0" from="31129765" to="-88559661#0" depart="117">
+    
+  </trip>
+  <trip id="18086" color="1,1,0" from="-206679802#4" to="-144489136" depart="120">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_7" />
+</trip>
+<trip id="18185" color="1,1,0" from="144489137#0" to="88597553#2" depart="123">
+    
+  </trip>
+  <trip id="18266" color="1,1,0" from="31129765" to="-99231475" depart="126">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="18330" color="1,1,0" from="123867455" to="26988030#2" depart="129">
+    
+  </trip>
+  <trip id="805" color="1,1,0" from="8915254" to="-254971068" depart="132">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="1657" color="1,1,0" from="31129765" to="-43100739" depart="135">
+    
+  </trip>
+  <trip id="3000" color="1,1,0" from="27388400#0" to="206662304#13" depart="138">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_0" />
+</trip>
+<trip id="3693" color="1,1,0" from="90077241" to="225432462#0" depart="141">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_34" />
+</trip>
+<trip id="4185" color="1,1,0" from="86303763#0" to="225518512#0" depart="144">
+    
+  </trip>
+  <trip id="4523" color="1,1,0" from="31129765" to="31129732#0" depart="147">
+    
+  </trip>
+  <trip id="4545" color="1,1,0" from="254396707#6" to="27054213#4" depart="150">
+    
+  </trip>
+  <trip id="4845" color="1,1,0" from="8915254" to="8916922#3" depart="153">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_44" />
+</trip>
+<trip id="5012" color="1,1,0" from="30029172#0" to="154966358" depart="156">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="5045" color="1,1,0" from="-27029200#2" to="-242896157#0" depart="159">
+    
+  </trip>
+  <trip id="5662" color="1,1,0" from="-27570802#1" to="-8917425" depart="162">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="5706" color="1,1,0" from="-204967525" to="8915752" depart="165">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="6083" color="1,1,0" from="31129765" to="35675861#1" depart="168">
+    
+  </trip>
+  <trip id="6508" color="1,1,0" from="111089307#0" to="8916922#0" depart="171">
+    
+  </trip>
+  <trip id="7712" color="1,1,0" from="90077241" to="204884121" depart="174">
+    
+  </trip>
+  <trip id="8374" color="1,1,0" from="-27029200#2" to="88466052#0" depart="177">
+    
+  </trip>
+  <trip id="10512" color="1,1,0" from="8916792" to="247966218#3" depart="180">
+    
+  </trip>
+  <trip id="11949" color="1,1,0" from="8916767#0" to="-37177689#5" depart="183">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_14" />
+</trip>
+<trip id="12698" color="1,1,0" from="90077241" to="254306572#0" depart="186">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="13227" color="1,1,0" from="-204967525" to="224199018#4" depart="189">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="14079" color="1,1,0" from="28319343#2" to="50690291#1" depart="192" />
+  <trip id="15224" color="1,1,0" from="-27029204" to="111319423" depart="195">
+    
+  </trip>
+  <trip id="15712" color="1,1,0" from="-206662304#13" to="99231463#0" depart="198">
+    
+  </trip>
+  <trip id="15981" color="1,1,0" from="-24310636#2" to="35675861#0" depart="201">
+    
+  </trip>
+  <trip id="16753" color="1,1,0" from="27167762" to="35675861#0" depart="204">
+    
+  </trip>
+  <trip id="17329" color="1,1,0" from="-206679802#4" to="35675861#1" depart="207">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="1720" color="1,1,0" from="255330036#13" to="24310636#2" depart="210" />
+  <trip id="2228" color="1,1,0" from="52432938#0" to="50690291#1" depart="213">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="2380" color="1,1,0" from="224316521#3" to="91181767" depart="216" />
+  <trip id="2507" color="1,1,0" from="-204967525" to="254758122#4" depart="219">
+    
+  </trip>
+  <trip id="2648" color="1,1,0" from="144489137#0" to="-8918039#1" depart="222">
+    
+  </trip>
+  <trip id="3455" color="1,1,0" from="-254297762#2" to="-47108420#2" depart="225">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="3522" color="1,1,0" from="225806031#0" to="-25371463" depart="228">
+    
+  </trip>
+  <trip id="4216" color="1,1,0" from="90077241" to="91181771#0" depart="231">
+    
+  </trip>
+  <trip id="4563" color="1,1,0" from="-27570786#2" to="99231463#0" depart="234">
+    
+  </trip>
+  <trip id="4794" color="1,1,0" from="-24310636#2" to="-35675861#0" depart="237">
+    
+  </trip>
+  <trip id="4955" color="1,1,0" from="-23883760" to="8916922#0" depart="240">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_44" />
+</trip>
+<trip id="6319" color="1,1,0" from="-133781749" to="88463830" depart="243">
+    
+  </trip>
+  <trip id="6870" color="1,1,0" from="-133781749" to="8922858#0" depart="246">
+    
+  </trip>
+  <trip id="7625" color="1,1,0" from="31129765" to="91181771#0" depart="249">
+    
+  </trip>
+  <trip id="8771" color="1,1,0" from="90077241" to="24335490#0" depart="252">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="10789" color="1,1,0" from="90077241" to="242896157#1" depart="255">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="11572" color="1,1,0" from="-35977367#2" to="26938124#4" depart="258">
+    
+  </trip>
+  <trip id="12299" color="1,1,0" from="254396707#6" to="99231460" depart="261">
+    
+  </trip>
+  <trip id="12843" color="1,1,0" from="31129765" to="-8922307" depart="264">
+    
+  </trip>
+  <trip id="14413" color="1,1,0" from="31129765" to="254306572#0" depart="267">
+    
+  </trip>
+  <trip id="14712" color="1,1,0" from="-254758120#3" to="8919328#0" depart="270">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="15301" color="1,1,0" from="144489137#0" to="225518502#3" depart="273">
+    
+  </trip>
+  <trip id="17297" color="1,1,0" from="-27167281#1" to="8922560#3" depart="276">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="17455" color="1,1,0" from="-254758121#2" to="204967525" depart="279">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="18646" color="1,1,0" from="254758124#0" to="50690291#1" depart="282" />
+  <trip id="2609" color="1,1,0" from="123867455" to="228186482#0" depart="285">
+    
+  </trip>
+  <trip id="3457" color="1,1,0" from="90077241" to="-204884121" depart="288">
+    
+  </trip>
+  <trip id="3621" color="1,1,0" from="142972028#1" to="-202485361#1" depart="291">
+    
+  </trip>
+  <trip id="4061" color="1,1,0" from="-254297762#2" to="283537552#0" depart="294">
+    
+  </trip>
+  <trip id="4712" color="1,1,0" from="-27029204" to="-88559691#6" depart="297">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="6399" color="1,1,0" from="90077241" to="8916922#3" depart="300">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_44" />
+</trip>
+<trip id="7765" color="1,1,0" from="224384035#0" to="120256350#3" depart="303">
+    
+  </trip>
+  <trip id="7801" color="1,1,0" from="225806031#0" to="88466052#1" depart="306">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8074" color="1,1,0" from="224384035#0" to="-364480069" depart="309">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8309" color="1,1,0" from="8915254" to="-283537552#0" depart="312">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="8757" color="1,1,0" from="8915254" to="91181771#3" depart="315">
+    
+  </trip>
+  <trip id="10625" color="1,1,0" from="-206679802#4" to="255330036#9" depart="318">
+    
+  </trip>
+  <trip id="11753" color="1,1,0" from="-206662304#13" to="111319423" depart="321">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="12043" color="1,1,0" from="8916792" to="91181774#0" depart="324">
+    
+  </trip>
+  <trip id="12593" color="1,1,0" from="191296172#0" to="99231482" depart="327">
+    
+  </trip>
+  <trip id="13953" color="1,1,0" from="-24310636#2" to="-8917425" depart="330">
+    
+  </trip>
+  <trip id="16444" color="1,1,0" from="-133755930#1" to="133733593#1" depart="333">
+    
+  </trip>
+  <trip id="18357" color="1,1,0" from="31129765" to="287958606#0" depart="336">
+    
+  </trip>
+  <trip id="294" color="1,1,0" from="225806031#0" to="143617589#0" depart="339">
+    
+  </trip>
+  <trip id="2087" color="1,1,0" from="-254758120#3" to="228202845#2" depart="342">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_7" />
+</trip>
+<trip id="2398" color="1,1,0" from="90077241" to="254756520#0" depart="345">
+    
+  </trip>
+  <trip id="2904" color="1,1,0" from="48211196#5" to="-8916792" depart="348" />
+  <trip id="4672" color="1,1,0" from="27167762" to="329607867" depart="351">
+    
+  </trip>
+  <trip id="7533" color="1,1,0" from="8915254" to="278995391#0" depart="354">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_11" />
+</trip>
+<trip id="9630" color="1,1,0" from="8916767#0" to="-254466686#4" depart="357">
+    
+  </trip>
+  <trip id="10190" color="1,1,0" from="86303763#0" to="-283537552#0" depart="360">
+    
+  </trip>
+  <trip id="12381" color="1,1,0" from="142972028#1" to="254971067#0" depart="363">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="12753" color="1,1,0" from="111089307#0" to="224373753" depart="366">
+    
+  </trip>
+  <trip id="14439" color="1,1,0" from="31129765" to="-99231475" depart="369">
+    
+  </trip>
+  <trip id="15047" color="1,1,0" from="254396707#6" to="283537552#0" depart="372">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="15397" color="1,1,0" from="-24310636#2" to="8916867#2" depart="375">
+    
+  </trip>
+  <trip id="16973" color="1,1,0" from="-133755930#1" to="8922560#0" depart="378">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="17313" color="1,1,0" from="-204967525" to="27054213#4" depart="381">
+    
+  </trip>
+  <trip id="4025" color="1,1,0" from="-133781749" to="88463829#0" depart="384">
+    
+  </trip>
+  <trip id="5603" color="1,1,0" from="90077241" to="255168046#0" depart="387">
+    
+  </trip>
+  <trip id="6286" color="1,1,0" from="23959829#0" to="-35675861#1" depart="390">
+    
+  </trip>
+  <trip id="14856" color="1,1,0" from="31129765" to="204884387#0" depart="393">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="17010" color="1,1,0" from="142972028#1" to="8922858#1" depart="396">
+    
+  </trip>
+  <trip id="6480" color="1,1,0" from="-27167281#1" to="111319423" depart="399">
+    
+  </trip>
+  <trip id="8086" color="1,1,0" from="8916767#0" to="-8916922#2" depart="402">
+    
+  </trip>
+  <trip id="12035" color="1,1,0" from="90077241" to="364480601#0" depart="405">
+    
+  </trip>
+  <trip id="14205" color="1,1,0" from="31129765" to="254306572#0" depart="408">
+    
+  </trip>
+  <trip id="5361" color="1,1,0" from="-204967525" to="290080809#4" depart="411">
+    
+  </trip>
+  <trip id="5854" color="1,1,0" from="-27570786#2" to="120256350#3" depart="414">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="10547" color="1,1,0" from="90077241" to="-254466686#4" depart="417">
+    
+  </trip>
+  <trip id="11956" color="1,1,0" from="-35977367#2" to="286003244#9" depart="420">
+    
+  </trip>
+  <trip id="16953" color="1,1,0" from="-206662304#13" to="-27398032#2" depart="423">
+    
+  </trip>
+  <trip id="5400" color="1,1,0" from="-27029204" to="8917425" depart="426">
+    
+  </trip>
+  <trip id="6377" color="1,1,0" from="86303763#0" to="27397692" depart="429">
+    
+  </trip>
+  <trip id="6687" color="1,1,0" from="142972028#1" to="120256350#3" depart="432">
+    
+  </trip>
+  <trip id="6703" color="1,1,0" from="-35977367#2" to="8919328#0" depart="435">
+    
+  </trip>
+  <trip id="8412" color="1,1,0" from="90077241" to="91181771#3" depart="438">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8660" color="1,1,0" from="23959829#0" to="99231475" depart="441">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_34" />
+</trip>
+<trip id="9165" color="1,1,0" from="31129765" to="225518502#2" depart="444">
+    
+  </trip>
+  <trip id="9890" color="1,1,0" from="133733582#2" to="-255330036#7" depart="447">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="11056" color="1,1,0" from="144489137#0" to="-8916551" depart="450">
+    
+  </trip>
+  <trip id="11214" color="1,1,0" from="-35977367#2" to="-88559680#4" depart="453">
+    
+  </trip>
+  <trip id="11494" color="1,1,0" from="23959829#0" to="255330036#8" depart="456">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="12823" color="1,1,0" from="142972028#1" to="287958607#3" depart="459">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="13362" color="1,1,0" from="-27570786#2" to="47108420#3" depart="462">
+    
+  </trip>
+  <trip id="13450" color="1,1,0" from="-133755930#1" to="-99231475" depart="465">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="14729" color="1,1,0" from="-35977367#2" to="47108420#0" depart="468">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="14825" color="1,1,0" from="-160313263#1" to="-47108420#2" depart="471">
+    
+  </trip>
+  <trip id="15334" color="1,1,0" from="31129765" to="47108420#0" depart="474">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="1266" color="1,1,0" from="28805009#5" to="27570802#1" depart="477">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="2206" color="1,1,0" from="90077241" to="-255330036#10" depart="480">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="3673" color="1,1,0" from="-27029204" to="120256350#8" depart="483">
+    
+  </trip>
+  <trip id="3982" color="1,1,0" from="90077241" to="-225518512#1" depart="486">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="4771" color="1,1,0" from="-160313263#1" to="-88559691#6" depart="489">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="6460" color="1,1,0" from="8916767#0" to="8916922#0" depart="492">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_44" />
+</trip>
+<trip id="7029" color="1,1,0" from="-206679802#4" to="91181771#5" depart="495">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="7039" color="1,1,0" from="90077241" to="225432457" depart="498">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="7258" color="1,1,0" from="-8916048" to="225432457" depart="501">
+    
+  </trip>
+  <trip id="7560" color="1,1,0" from="191296172#0" to="247960234#1" depart="504">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="8635" color="1,1,0" from="-27029200#2" to="-8916922#2" depart="507">
+    
+  </trip>
+  <trip id="8769" color="1,1,0" from="-204967525" to="225518512#0" depart="510">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="9215" color="1,1,0" from="123867455" to="225518512#0" depart="513">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="9528" color="1,1,0" from="-35977367#1" to="225847519#4" depart="516">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="9756" color="1,1,0" from="90077241" to="224316522#0" depart="519">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="10474" color="1,1,0" from="90077241" to="-p3#1" depart="522">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="16725" color="1,1,0" from="8916792" to="91181771#0" depart="525">
+    
+  </trip>
+  <trip id="16789" color="1,1,0" from="-133781749" to="224200967" depart="528">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="2175" color="1,1,0" from="-30029708#0" to="50690291#1" depart="531" />
+  <trip id="2419" color="1,1,0" from="gneE21" to="206662304#13" depart="534">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_0" />
+</trip>
+<trip id="2932" color="1,1,0" from="-254758120#3" to="283534317#6" depart="537">
+    
+  </trip>
+  <trip id="3720" color="1,1,0" from="225806031#0" to="225518502#3" depart="540">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="6494" color="1,1,0" from="111089307#0" to="88466052#1" depart="543">
+    
+  </trip>
+  <trip id="8765" color="1,1,0" from="8916767#0" to="283537552#0" depart="546">
+    
+  </trip>
+  <trip id="12059" color="1,1,0" from="-23883761" to="-242896157#0" depart="549">
+    
+  </trip>
+  <trip id="12184" color="1,1,0" from="224384035#0" to="133733590#0" depart="552">
+    
+  </trip>
+  <trip id="13274" color="1,1,0" from="90077241" to="287958607#3" depart="555">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="14583" color="1,1,0" from="27167762" to="254971068" depart="558">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="463" color="1,1,0" from="-24335483#9" to="27054205#1" depart="561">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_28" />
+</trip>
+<trip id="3832" color="1,1,0" from="111089307#0" to="214545530#0" depart="564">
+    
+  </trip>
+  <trip id="4075" color="1,1,0" from="8915254" to="-283537552#0" depart="567">
+    
+  </trip>
+  <trip id="5741" color="1,1,0" from="-206662304#13" to="99231468#0" depart="570">
+    
+  </trip>
+  <trip id="5977" color="1,1,0" from="8915254" to="27397692" depart="573">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="7045" color="1,1,0" from="90077241" to="8916922#3" depart="576">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_44" />
+</trip>
+<trip id="7738" color="1,1,0" from="90077241" to="-8922307" depart="579">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="9136" color="1,1,0" from="-254297762#2" to="8922307" depart="582">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="11139" color="1,1,0" from="224384035#0" to="-254396709#1" depart="585">
+    
+  </trip>
+  <trip id="16922" color="1,1,0" from="90077241" to="224316522#0" depart="588">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="7869" color="1,1,0" from="224384035#0" to="225432462#0" depart="591">
+    
+  </trip>
+  <trip id="13105" color="1,1,0" from="142972028#1" to="224316522#0" depart="594">
+    
+  </trip>
+  <trip id="13938" color="1,1,0" from="-254297762#2" to="133733593#1" depart="597">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="1775" color="1,1,0" from="-288065247#1" to="-133733582#3" depart="600">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="3791" color="1,1,0" from="-263819574#1" to="8916048" depart="603">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="3873" color="1,1,0" from="90077241" to="99231475" depart="606">
+    
+  </trip>
+  <trip id="4480" color="1,1,0" from="254396707#6" to="-202485361#1" depart="609">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="4511" color="1,1,0" from="23959829#0" to="364480069" depart="612">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="5001" color="1,1,0" from="-24310636#2" to="8919328#1" depart="615">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="6134" color="1,1,0" from="90077241" to="120256350#3" depart="618">
+    
+  </trip>
+  <trip id="7312" color="1,1,0" from="90077241" to="88559691#4" depart="621">
+    
+  </trip>
+  <trip id="7722" color="1,1,0" from="-144346316#5" to="8919403#0" depart="624">
+    
+  </trip>
+  <trip id="7889" color="1,1,0" from="8916792" to="110361656" depart="627">
+    
+  </trip>
+  <trip id="8753" color="1,1,0" from="-160313263#1" to="-8916922#0" depart="630">
+    
+  </trip>
+  <trip id="8763" color="1,1,0" from="90077241" to="225432462#0" depart="633">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_34" />
+</trip>
+<trip id="11277" color="1,1,0" from="-144346316#5" to="47172834#2" depart="636">
+    
+  </trip>
+  <trip id="14589" color="1,1,0" from="8916792" to="p3#0" depart="639">
+    
+  </trip>
+  <trip id="14661" color="1,1,0" from="90077241" to="-8920734" depart="642">
+    
+  </trip>
+  <trip id="16434" color="1,1,0" from="86303763#0" to="133733593#0" depart="645">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="16766" color="1,1,0" from="224384035#0" to="8916551" depart="648">
+    
+  </trip>
+  <trip id="17353" color="1,1,0" from="84823308" to="8919616#1" depart="651">
+    
+  </trip>
+  <trip id="1877" color="1,1,0" from="225806031#0" to="32931798#2" depart="654">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="4405" color="1,1,0" from="-24335483#9" to="283537552#0" depart="657">
+    
+  </trip>
+  <trip id="4843" color="1,1,0" from="-204967525" to="225518502#3" depart="660">
+    
+  </trip>
+  <trip id="5723" color="1,1,0" from="-204967525" to="225518502#2" depart="663">
+    
+  </trip>
+  <trip id="5973" color="1,1,0" from="8916792" to="27397919" depart="666">
+    
+  </trip>
+  <trip id="7243" color="1,1,0" from="-254297762#2" to="8918460#0" depart="669">
+    
+  </trip>
+  <trip id="8235" color="1,1,0" from="142972028#1" to="8917425" depart="672">
+    
+  </trip>
+  <trip id="9746" color="1,1,0" from="191296172#0" to="26769717#1" depart="675">
+    
+  </trip>
+  <trip id="13718" color="1,1,0" from="31129765" to="228196396" depart="678">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="17166" color="1,1,0" from="-23883760" to="8919328#1" depart="681">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="3366" color="1,1,0" from="144489137#3" to="254756525#26" depart="684">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_37" />
+</trip>
+<trip id="1781" color="1,1,0" from="148847001#0" to="8918874" depart="687">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="4879" color="1,1,0" from="133733582#2" to="-225518512#1" depart="690">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="10141" color="1,1,0" from="-254297762#2" to="-283537552#0" depart="693">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="10968" color="1,1,0" from="111089307#0" to="-283537552#0" depart="696">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="13012" color="1,1,0" from="-254297762#2" to="8919616#0" depart="699">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="14924" color="1,1,0" from="-254297762#2" to="133733593#1" depart="702">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="11918" color="1,1,0" from="-133755923#1" to="35977367#2" depart="705">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_0" />
+</trip>
+<trip id="5140" color="1,1,0" from="8916767#0" to="-8922307" depart="708">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="17866" color="1,1,0" from="-88572874#1" to="225847519#4" depart="711" />
+  <trip id="3764" color="1,1,0" from="8919058" to="100400947#11" depart="714" />
+  <trip id="33" color="1,1,0" from="254396707#6" to="8919020#0" depart="717">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_6" />
+</trip>
+<trip id="1988" color="1,1,0" from="-254758120#3" to="-24335440#0" depart="720">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_35" />
+</trip>
+<trip id="2889" color="1,1,0" from="288065247#6" to="254756525#26" depart="723">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_37" />
+</trip>
+<trip id="3710" color="1,1,0" from="225806031#0" to="35675861#1" depart="726">
+    
+  </trip>
+  <trip id="3806" color="1,1,0" from="-48211196#4" to="133755930#1" depart="729">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_14" />
+</trip>
+<trip id="3990" color="1,1,0" from="225806031#0" to="364480069" depart="732">
+    
+  </trip>
+  <trip id="4073" color="1,1,0" from="-24335483#9" to="-225432462#1" depart="735">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="4612" color="1,1,0" from="31129765" to="111049100#0" depart="738">
+    
+  </trip>
+  <trip id="4853" color="1,1,0" from="90077241" to="-88463830" depart="741">
+    
+  </trip>
+  <trip id="5771" color="1,1,0" from="90077241" to="120256350#8" depart="744">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="6897" color="1,1,0" from="-204967525" to="-225432462#1" depart="747">
+    
+  </trip>
+  <trip id="7683" color="1,1,0" from="-24335483#9" to="283537380#2" depart="750">
+    
+  </trip>
+  <trip id="8112" color="1,1,0" from="90077241" to="-8916922#4" depart="753">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="11460" color="1,1,0" from="-27029204" to="133733590#0" depart="756">
+    
+  </trip>
+  <trip id="12111" color="1,1,0" from="-27167281#1" to="224200967" depart="759">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="12263" color="1,1,0" from="-23883761" to="88597553#2" depart="762">
+    
+  </trip>
+  <trip id="12625" color="1,1,0" from="90077241" to="-35675862" depart="765">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="13050" color="1,1,0" from="23959829#0" to="27146036#1" depart="768">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="13563" color="1,1,0" from="-23883761" to="255330036#12" depart="771">
+    
+  </trip>
+  <trip id="14136" color="1,1,0" from="111089307#0" to="224316513#0" depart="774">
+    
+  </trip>
+  <trip id="14179" color="1,1,0" from="-35977367#2" to="-175129396#1" depart="777">
+    
+  </trip>
+  <trip id="14453" color="1,1,0" from="90077241" to="8922307" depart="780">
+    
+  </trip>
+  <trip id="15234" color="1,1,0" from="-27167281#1" to="-287958606#1" depart="783">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="17980" color="1,1,0" from="-27167281#1" to="-224316527" depart="786">
+    
+  </trip>
+  <trip id="819" color="1,1,0" from="34128713#0" to="154966358" depart="789">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="2019" color="1,1,0" from="288065247#6" to="24335483#9" depart="792" />
+  <trip id="4260" color="1,1,0" from="191296172#0" to="-283537552#0" depart="795">
+    
+  </trip>
+  <trip id="4823" color="1,1,0" from="224384035#0" to="-88559691#6" depart="798">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="4855" color="1,1,0" from="27167762" to="-99231475" depart="801">
+    
+  </trip>
+  <trip id="6939" color="1,1,0" from="-48211062#12" to="-27397937" depart="804">
+    
+  </trip>
+  <trip id="7047" color="1,1,0" from="-133755930#1" to="-88463830" depart="807">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8186" color="1,1,0" from="-204967525" to="99231460" depart="810">
+    
+  </trip>
+  <trip id="8295" color="1,1,0" from="-254758120#3" to="-99231475" depart="813">
+    
+  </trip>
+  <trip id="8418" color="1,1,0" from="31129765" to="8922307" depart="816">
+    
+  </trip>
+  <trip id="11064" color="1,1,0" from="31129765" to="-88559702#0" depart="819">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="13008" color="1,1,0" from="90077241" to="133733590#0" depart="822">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="13195" color="1,1,0" from="-27029200#2" to="8922164#4" depart="825">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="14299" color="1,1,0" from="-27167281#1" to="254758126#3" depart="828">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_5" />
+</trip>
+<trip id="14698" color="1,1,0" from="90077241" to="364480068#1" depart="831">
+    
+  </trip>
+  <trip id="15260" color="1,1,0" from="86303763#0" to="-202485361#1" depart="834">
+    
+  </trip>
+  <trip id="18169" color="1,1,0" from="144489137#0" to="-88463830" depart="837">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="3132" color="1,1,0" from="-133755930#1" to="30029703#4" depart="840">
+    
+  </trip>
+  <trip id="3869" color="1,1,0" from="-27570802#1" to="-242896157#3" depart="843">
+    
+  </trip>
+  <trip id="3984" color="1,1,0" from="90077241" to="-254971064#1" depart="846">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="7035" color="1,1,0" from="-133755930#1" to="329607867" depart="849">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="7809" color="1,1,0" from="31129765" to="-8922307" depart="852">
+    
+  </trip>
+  <trip id="8843" color="1,1,0" from="90077241" to="364480068#1" depart="855">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="13801" color="1,1,0" from="-24335483#9" to="254756525#3" depart="858">
+    
+  </trip>
+  <trip id="2266" color="1,1,0" from="90077241" to="-88572877#6" depart="861">
+    
+  </trip>
+  <trip id="2937" color="1,1,0" from="90077241" to="99231466" depart="864">
+    
+  </trip>
+  <trip id="2204" color="1,1,0" from="-27029200#2" to="254756520#2" depart="867">
+    
+  </trip>
+  <trip id="4692" color="1,1,0" from="254396707#6" to="27397691" depart="870">
+    
+  </trip>
+  <trip id="10284" color="1,1,0" from="31129765" to="-99231486" depart="873">
+    
+  </trip>
+  <trip id="12172" color="1,1,0" from="90077241" to="30758839#1" depart="876">
+    
+  </trip>
+  <trip id="4752" color="1,1,0" from="-27570802#1" to="8919403#0" depart="879">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="7645" color="1,1,0" from="84823308" to="91181771#0" depart="882">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="7875" color="1,1,0" from="8916792" to="179235241" depart="885">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8014" color="1,1,0" from="31129765" to="242896157#1" depart="888">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="11326" color="1,1,0" from="133733582#2" to="287958606#0" depart="891">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="2405" color="1,1,0" from="-33789567" to="-191296172#0" depart="894">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="4056" color="1,1,0" from="-27397692" to="35977367#2" depart="897">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_0" />
+</trip>
+<trip id="4182" color="1,1,0" from="-242896157#0" to="204967525" depart="900" />
+  <trip id="5222" color="1,1,0" from="-191296172#2" to="154966358" depart="903">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="5399" color="1,1,0" from="-254758139#0" to="50690291#1" depart="906">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="8084" color="1,1,0" from="-204967525" to="-8916922#0" depart="909">
+    
+  </trip>
+  <trip id="8620" color="1,1,0" from="120256350#3" to="-133733582#3" depart="912" />
+  <trip id="11583" color="1,1,0" from="31129765" to="254758126#3" depart="915">
+    
+  </trip>
+  <trip id="17467" color="1,1,0" from="204884387#0" to="254297763#7" depart="918">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_18" />
+</trip>
+<trip id="1658" color="1,1,0" from="47172109#0" to="30454437" depart="921" />
+  <trip id="4930" color="1,1,0" from="144489137#0" to="-35675861#1" depart="924">
+    
+  </trip>
+  <trip id="5702" color="1,1,0" from="8915254" to="204884378#0" depart="927">
+    
+  </trip>
+  <trip id="7025" color="1,1,0" from="31129765" to="8916922#3" depart="930">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_44" />
+</trip>
+<trip id="12699" color="1,1,0" from="204884387#0" to="50690291#1" depart="933">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="17330" color="1,1,0" from="8922307" to="254756525#26" depart="936">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_37" />
+</trip>
+<trip id="2229" color="1,1,0" from="-111089307#4" to="52432936#0" depart="939" />
+  <trip id="11573" color="1,1,0" from="144489137#7" to="154966358" depart="942" />
+  <trip id="12300" color="1,1,0" from="-35675861#0" to="48211062#12" depart="945">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="13031" color="1,1,0" from="-24310636#2" to="-287958606#1" depart="948">
+    
+  </trip>
+  <trip id="14713" color="1,1,0" from="225518502#2" to="27029200#2" depart="951" />
+  <trip id="2610" color="1,1,0" from="-88572970" to="50690291#1" depart="954">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="2399" color="1,1,0" from="8919179#1" to="254297762#1" depart="957" />
+  <trip id="8031" color="1,1,0" from="191296172#0" to="-p4#0" depart="960">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="9631" color="1,1,0" from="254396709#0" to="91181767" depart="963" />
+  <trip id="15048" color="1,1,0" from="99231460" to="-8916792" depart="966">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_22" />
+</trip>
+<trip id="15398" color="1,1,0" from="254466686#4" to="204967525" depart="969" />
+  <trip id="16940" color="1,1,0" from="224384035#0" to="8918381#1" depart="972">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_42" />
+</trip>
+
+<trip id="5604" color="1,1,0" from="88466052#1" to="50690291#1" depart="978" />
+  <trip id="17011" color="1,1,0" from="111089307#0" to="88463830" depart="981">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="5362" color="1,1,0" from="p1#1" to="154966358" depart="984" />
+  <trip id="14730" color="1,1,0" from="27146036#1" to="154966358" depart="987" />
+  <trip id="4411" color="1,1,0" from="-48211062#12" to="p4#0" depart="990">
+    
+  </trip>
+  
+<trip id="8766" color="1,1,0" from="-242896157#0" to="50690291#1" depart="996" />
+  <trip id="1489" color="1,1,0" from="-254297762#2" to="-254758121#3" depart="999" />
+  <trip id="3118" color="1,1,0" from="31129765" to="224316522#0" depart="1002">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="10486" color="1,1,0" from="-24310636#2" to="51392400" depart="1005">
+    
+  </trip>
+  <trip id="5322" color="1,1,0" from="31129765" to="-99231486" depart="1008">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="4051" color="1,1,0" from="144489137#0" to="225432462#0" depart="1011">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_34" />
+</trip>
+<trip id="12883" color="1,1,0" from="191296172#0" to="287958607#2" depart="1014">
+    
+  </trip>
+  <trip id="7001" color="1,1,0" from="225806031#0" to="8919403#0" depart="1017">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="11789" color="1,1,0" from="-204967525" to="120813417" depart="1020">
+    
+  </trip>
+  <trip id="11991" color="1,1,0" from="225806031#0" to="-99231475" depart="1023">
+    
+  </trip>
+  <trip id="1330" color="1,1,0" from="-204884378#1" to="50690291#1" depart="1026">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="4628" color="1,1,0" from="254396707#6" to="91181771#4" depart="1029">
+    
+  </trip>
+  <trip id="4804" color="1,1,0" from="-254297762#2" to="-27397937" depart="1032">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="5343" color="1,1,0" from="191296172#0" to="27397919" depart="1035">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="5668" color="1,1,0" from="90077241" to="225432457" depart="1038">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8349" color="1,1,0" from="31129765" to="8916551" depart="1041">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="11349" color="1,1,0" from="-254297762#2" to="133733590#0" depart="1044">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="15069" color="1,1,0" from="-24310636#2" to="-99231486" depart="1047">
+    
+  </trip>
+  <trip id="16167" color="1,1,0" from="-27167281#1" to="224316522#0" depart="1050">
+    
+  </trip>
+  <trip id="16741" color="1,1,0" from="-254297762#2" to="225518502#0" depart="1053">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="16971" color="1,1,0" from="90077241" to="43100046" depart="1056">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="17027" color="1,1,0" from="90077241" to="247966218#4" depart="1059">
+    
+  </trip>
+  <trip id="4272" color="1,1,0" from="-27029200#2" to="225432462#0" depart="1062">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_34" />
+</trip>
+<trip id="7517" color="1,1,0" from="-204967525" to="88463829#0" depart="1065">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="11985" color="1,1,0" from="27398045#1" to="-204884387#2" depart="1068">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_36" />
+</trip>
+<trip id="16331" color="1,1,0" from="8916767#0" to="364480601#0" depart="1071">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="16961" color="1,1,0" from="23959829#0" to="224316514#0" depart="1074">
+    
+  </trip>
+  <trip id="3700" color="1,1,0" from="27167762" to="-364480069" depart="1077">
+    
+  </trip>
+  <trip id="3833" color="1,1,0" from="8920934" to="254448252#1" depart="1080">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="5932" color="1,1,0" from="31129765" to="-99231486" depart="1083">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8184" color="1,1,0" from="-254297762#2" to="225518512#0" depart="1086">
+    
+  </trip>
+  <trip id="10629" color="1,1,0" from="90077241" to="225518512#0" depart="1089">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="11202" color="1,1,0" from="90077241" to="-224316527" depart="1092">
+    
+  </trip>
+  <trip id="14888" color="1,1,0" from="-160313263#1" to="262943781" depart="1095">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="17768" color="1,1,0" from="-133755930#1" to="287958607#0" depart="1098">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="2913" color="1,1,0" from="-27029200#2" to="p4#0" depart="1101">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="3871" color="1,1,0" from="-204967525" to="283537552#0" depart="1104">
+    
+  </trip>
+  <trip id="4246" color="1,1,0" from="90077241" to="-8916922#2" depart="1107">
+    
+  </trip>
+  <trip id="9111" color="1,1,0" from="-48211062#12" to="-27397937" depart="1110">
+    
+  </trip>
+  <trip id="16242" color="1,1,0" from="90077241" to="27397937" depart="1113">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="17867" color="1,1,0" from="-24310636#2" to="24335439#0" depart="1116" />
+  <trip id="919" color="1,1,0" from="-30030485#0" to="154966358" depart="1119">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="4947" color="1,1,0" from="254396707#6" to="364480601#1" depart="1122">
+    
+  </trip>
+  <trip id="7623" color="1,1,0" from="31129765" to="91181771#15" depart="1125">
+    
+  </trip>
+  <trip id="12660" color="1,1,0" from="-27167281#1" to="p3#0" depart="1128">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="12851" color="1,1,0" from="23959829#0" to="364480601#0" depart="1131">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="2556" color="1,1,0" from="8920734" to="-8916792" depart="1134" />
+  <trip id="2575" color="1,1,0" from="111089307#0" to="256787755#3" depart="1137">
+    
+  </trip>
+  <trip id="13196" color="1,1,0" from="8918039#2" to="24335441" depart="1140">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="14437" color="1,1,0" from="-206662304#13" to="-99231486" depart="1143">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="18170" color="1,1,0" from="27397691" to="24310636#2" depart="1146">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="1778" color="1,1,0" from="30030283#1" to="254448252#1" depart="1149">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="2141" color="1,1,0" from="84734271#2" to="24335441" depart="1152" />
+  <trip id="3133" color="1,1,0" from="-30029703#8" to="50690291#1" depart="1155" />
+  <trip id="4039" color="1,1,0" from="8916792" to="255168046#2" depart="1158">
+    
+  </trip>
+  <trip id="4576" color="1,1,0" from="-204967525" to="8915752" depart="1161">
+    
+  </trip>
+  <trip id="5439" color="1,1,0" from="133733582#2" to="8915752" depart="1164">
+    
+  </trip>
+  <trip id="7314" color="1,1,0" from="31129765" to="-225518512#1" depart="1167">
+    
+  </trip>
+  <trip id="8076" color="1,1,0" from="224384035#0" to="-8922307" depart="1170">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="10186" color="1,1,0" from="-160313263#1" to="88463830" depart="1173">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="11212" color="1,1,0" from="144489137#0" to="8916867#2" depart="1176">
+    
+  </trip>
+  <trip id="15098" color="1,1,0" from="8916792" to="287958607#2" depart="1179">
+    
+  </trip>
+  <trip id="16668" color="1,1,0" from="90077241" to="254971068" depart="1182">
+    
+  </trip>
+  <trip id="3937" color="1,1,0" from="-48211062#12" to="254299142#3" depart="1185">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_42" />
+</trip>
+<trip id="4276" color="1,1,0" from="224384035#0" to="-35675861#1" depart="1188">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="5164" color="1,1,0" from="-35977367#2" to="91181771#5" depart="1191">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="6132" color="1,1,0" from="-24335483#9" to="364480068#0" depart="1194">
+    
+  </trip>
+  <trip id="6141" color="1,1,0" from="31129765" to="88463830" depart="1197">
+    
+  </trip>
+  <trip id="7098" color="1,1,0" from="-23883760" to="27397937" depart="1200">
+    
+  </trip>
+  <trip id="7121" color="1,1,0" from="-23883761" to="364480068#1" depart="1203">
+    
+  </trip>
+  <trip id="7859" color="1,1,0" from="144489137#0" to="283537380#2" depart="1206">
+    
+  </trip>
+  <trip id="8113" color="1,1,0" from="99231460" to="-8916792" depart="1209">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_22" />
+</trip>
+<trip id="12903" color="1,1,0" from="-144346316#5" to="224316514#0" depart="1212">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="17922" color="1,1,0" from="90077241" to="28319343#3" depart="1215">
+    
+  </trip>
+  <trip id="6498" color="1,1,0" from="-23883760" to="111049100#0" depart="1218">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="12264" color="1,1,0" from="254756525#0" to="154966358" depart="1221">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="17385" color="1,1,0" from="8916767#0" to="-88466055#1" depart="1224">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="5357" color="1,1,0" from="-27029204" to="111319423" depart="1227">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="6026" color="1,1,0" from="31129765" to="8918460#0" depart="1230">
+    
+  </trip>
+  <trip id="6409" color="1,1,0" from="144489137#0" to="-283537552#0" depart="1233">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="6780" color="1,1,0" from="-27167281#1" to="283537552#0" depart="1236">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="7412" color="1,1,0" from="142972028#1" to="99231468#0" depart="1239">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="7795" color="1,1,0" from="86303763#0" to="8915752" depart="1242">
+    
+  </trip>
+  <trip id="11278" color="1,1,0" from="254299117#0" to="154966358" depart="1245">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="15639" color="1,1,0" from="111089307#0" to="8922560#0" depart="1248">
+    
+  </trip>
+  <trip id="16391" color="1,1,0" from="-48211062#12" to="359898621#0" depart="1251">
+    
+  </trip>
+  <trip id="825" color="1,1,0" from="90077241" to="256787755#0" depart="1254">
+    
+  </trip>
+  <trip id="936" color="1,1,0" from="148847000#4" to="133781749" depart="1257" />
+  <trip id="1473" color="1,1,0" from="254297761#2" to="8916048" depart="1260">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="1769" color="1,1,0" from="-87297164#2" to="154966358" depart="1263" />
+  <trip id="2315" color="1,1,0" from="-24310636#2" to="-122498865" depart="1266">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_31" />
+</trip>
+<trip id="2736" color="1,1,0" from="8916792" to="8919020#0" depart="1269">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_6" />
+</trip>
+<trip id="3374" color="1,1,0" from="48211487#0" to="154966358" depart="1272" />
+  <trip id="3564" color="1,1,0" from="8916767#0" to="-254971064#1" depart="1275">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="3974" color="1,1,0" from="-48211062#12" to="120256350#8" depart="1278">
+    
+  </trip>
+  <trip id="3998" color="1,1,0" from="-206662304#13" to="364480601#1" depart="1281">
+    
+  </trip>
+  <trip id="4002" color="1,1,0" from="-27570786#2" to="27397692" depart="1284">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="4232" color="1,1,0" from="-27570802#1" to="8919338" depart="1287">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="4268" color="1,1,0" from="-254297762#2" to="8916922#0" depart="1290">
+    
+  </trip>
+  <trip id="4584" color="1,1,0" from="-204967525" to="-88463830" depart="1293">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="4910" color="1,1,0" from="90077241" to="8919328#1" depart="1296">
+    
+  </trip>
+  <trip id="4927" color="1,1,0" from="-23883760" to="364480601#1" depart="1299">
+    
+  </trip>
+  <trip id="5017" color="1,1,0" from="31129765" to="35675861#1" depart="1302">
+    
+  </trip>
+  <trip id="5176" color="1,1,0" from="8915254" to="35675861#1" depart="1305">
+    
+  </trip>
+  <trip id="6103" color="1,1,0" from="-24310636#2" to="p4#0" depart="1308">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="6151" color="1,1,0" from="27398045#1" to="225432462#0" depart="1311">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_34" />
+</trip>
+<trip id="6271" color="1,1,0" from="-133755930#1" to="225432457" depart="1314">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="6309" color="1,1,0" from="142972028#1" to="27397692" depart="1317">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="6349" color="1,1,0" from="90077241" to="27397691" depart="1320">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="6748" color="1,1,0" from="123867455" to="24335490#0" depart="1323">
+    
+  </trip>
+  <trip id="7021" color="1,1,0" from="-23883760" to="364480068#0" depart="1326">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="7023" color="1,1,0" from="-204967525" to="99231468#0" depart="1329">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8000" color="1,1,0" from="-8916048" to="364480601#0" depart="1332">
+    
+  </trip>
+  <trip id="8069" color="1,1,0" from="90077241" to="8922858#0" depart="1335">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_42" />
+</trip>
+<trip id="8092" color="1,1,0" from="-27167281#1" to="91181771#0" depart="1338">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8123" color="1,1,0" from="-144346316#5" to="-283537552#0" depart="1341">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="8326" color="1,1,0" from="-87376697#1" to="154966358" depart="1344" />
+  <trip id="8398" color="1,1,0" from="142972028#1" to="-254971064#1" depart="1347">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8428" color="1,1,0" from="23959829#0" to="91181771#3" depart="1350">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8505" color="1,1,0" from="225806031#0" to="-35675861#1" depart="1353">
+    
+  </trip>
+  <trip id="8652" color="1,1,0" from="8916792" to="8922307" depart="1356">
+    
+  </trip>
+  <trip id="8715" color="1,1,0" from="144489137#0" to="-8916922#4" depart="1359">
+    
+  </trip>
+  <trip id="8821" color="1,1,0" from="-24310636#2" to="242896157#1" depart="1362">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8881" color="1,1,0" from="90077241" to="p4#0" depart="1365">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="9096" color="1,1,0" from="-27029200#2" to="204884387#0" depart="1368">
+    
+  </trip>
+  <trip id="9337" color="1,1,0" from="23959829#0" to="91181773#0" depart="1371">
+    
+  </trip>
+  <trip id="9820" color="1,1,0" from="-254758120#3" to="24335489#0" depart="1374">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="9959" color="1,1,0" from="-133781749" to="27397691" depart="1377">
+    
+  </trip>
+  <trip id="10050" color="1,1,0" from="90077241" to="224316514#0" depart="1380">
+    
+  </trip>
+  <trip id="10089" color="1,1,0" from="-254297762#2" to="254396709#0" depart="1383">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="10415" color="1,1,0" from="-204967525" to="255330036#7" depart="1386">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="10557" color="1,1,0" from="31129765" to="88463829#0" depart="1389">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="10654" color="1,1,0" from="86303763#0" to="8916922#3" depart="1392">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_44" />
+</trip>
+<trip id="10755" color="1,1,0" from="-27029204" to="123741452" depart="1395">
+    
+  </trip>
+  <trip id="11093" color="1,1,0" from="-204967525" to="144489134#0" depart="1398">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_32" />
+</trip>
+<trip id="11162" color="1,1,0" from="-23883760" to="254756525#3" depart="1401">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="11182" color="1,1,0" from="84823308" to="-28231602#2" depart="1404">
+    
+  </trip>
+  <trip id="11234" color="1,1,0" from="31129765" to="8919179#0" depart="1407">
+    
+  </trip>
+  <trip id="11452" color="1,1,0" from="225806031#0" to="255168046#2" depart="1410">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="11755" color="1,1,0" from="-24310636#2" to="-228196396" depart="1413">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_36" />
+</trip>
+<trip id="11777" color="1,1,0" from="90077241" to="254756521#3" depart="1416">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="11943" color="1,1,0" from="31129765" to="-224384018" depart="1419">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_6" />
+</trip>
+<trip id="12051" color="1,1,0" from="84823308" to="111049100#0" depart="1422">
+    
+  </trip>
+  <trip id="12095" color="1,1,0" from="-206662304#13" to="-254971068" depart="1425">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="12186" color="1,1,0" from="90077241" to="133755922" depart="1428">
+    
+  </trip>
+  <trip id="12316" color="1,1,0" from="-133755930#1" to="24335489#0" depart="1431">
+    
+  </trip>
+  <trip id="12332" color="1,1,0" from="-204967525" to="-24310636#1" depart="1434">
+    
+  </trip>
+  <trip id="12679" color="1,1,0" from="23959829#0" to="254466695#0" depart="1437">
+    
+  </trip>
+  <trip id="13446" color="1,1,0" from="-133755930#1" to="-224384018" depart="1440">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_6" />
+</trip>
+<trip id="13835" color="1,1,0" from="90077241" to="-254396709#1" depart="1443">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="14145" color="1,1,0" from="144489137#0" to="-p7#1" depart="1446">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_7" />
+</trip>
+<trip id="14392" color="1,1,0" from="142972028#1" to="287958607#3" depart="1449">
+    
+  </trip>
+  <trip id="14645" color="1,1,0" from="-24335483#9" to="224316513#0" depart="1452">
+    
+  </trip>
+  <trip id="14744" color="1,1,0" from="144489137#0" to="27054213#2" depart="1455">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="14910" color="1,1,0" from="-133755930#1" to="254756525#0" depart="1458">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="14982" color="1,1,0" from="31129765" to="133733590#0" depart="1461">
+    
+  </trip>
+  <trip id="15077" color="1,1,0" from="-133755930#1" to="-8919179#0" depart="1464">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="15239" color="1,1,0" from="-23883760" to="224199018#4" depart="1467">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="15438" color="1,1,0" from="254396707#6" to="8916867#2" depart="1470">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="15796" color="1,1,0" from="-27167281#1" to="287958607#3" depart="1473">
+    
+  </trip>
+  <trip id="15875" color="1,1,0" from="-35977367#2" to="47108420#0" depart="1476">
+    
+  </trip>
+  <trip id="16300" color="1,1,0" from="31129765" to="287958607#2" depart="1479">
+    
+  </trip>
+  <trip id="16735" color="1,1,0" from="142972028#1" to="254756521#3" depart="1482">
+    
+  </trip>
+  <trip id="16883" color="1,1,0" from="90077241" to="26769717#0" depart="1485">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="17237" color="1,1,0" from="-144346316#5" to="-27397692" depart="1488">
+    
+  </trip>
+  <trip id="17361" color="1,1,0" from="31129765" to="27054213#4" depart="1491">
+    
+  </trip>
+  <trip id="17632" color="1,1,0" from="254396707#6" to="133733593#1" depart="1494">
+    
+  </trip>
+  <trip id="17947" color="1,1,0" from="31129765" to="28843496" depart="1497">
+    
+  </trip>
+  <trip id="18199" color="1,1,0" from="84823308" to="27054213#4" depart="1500">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_43" />
+</trip>
+<trip id="18203" color="1,1,0" from="-27570786#2" to="8917425" depart="1503">
+    
+  </trip>
+  <trip id="18312" color="1,1,0" from="31129765" to="8919328#0" depart="1506">
+    
+  </trip>
+  <trip id="18506" color="1,1,0" from="84823308" to="179235243#1" depart="1509">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="18058" color="1,1,0" from="47172835" to="35977367#2" depart="1512" />
+  <trip id="4990" color="1,1,0" from="8916922#3" to="254297763#7" depart="1515">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_18" />
+</trip>
+<trip id="7210" color="1,1,0" from="27029200#0" to="50690291#1" depart="1518" />
+  <trip id="8738" color="1,1,0" from="225853133" to="254756525#26" depart="1521">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_37" />
+</trip>
+<trip id="1635" color="1,1,0" from="133376103" to="225847519#4" depart="1524" />
+  <trip id="2026" color="1,1,0" from="31129765" to="254758126#1" depart="1527">
+    
+  </trip>
+  <trip id="2531" color="1,1,0" from="123867455" to="26988009#0" depart="1530" />
+  <trip id="10171" color="1,1,0" from="202317711" to="254448252#1" depart="1533" />
+  <trip id="1570" color="1,1,0" from="287958607#0" to="-191296172#0" depart="1536">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="2251" color="1,1,0" from="100400942#0" to="-8916792" depart="1539" />
+  <trip id="3381" color="1,1,0" from="-48211062#12" to="-148874365#5" depart="1542">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_11" />
+</trip>
+<trip id="5991" color="1,1,0" from="8916922#1" to="50690291#1" depart="1545">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="9045" color="1,1,0" from="p2#4" to="50690291#1" depart="1548">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="9532" color="1,1,0" from="-48211062#12" to="-206662304#12" depart="1551" />
+  <trip id="14551" color="1,1,0" from="133735130#0" to="100400947#11" depart="1554" />
+  <trip id="678" color="1,1,0" from="-24310636#2" to="-87376697#1" depart="1557">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_3" />
+</trip>
+<trip id="1138" color="1,1,0" from="-88572914#2" to="133755930#1" depart="1560" />
+  <trip id="1425" color="1,1,0" from="144489137#0" to="254756517" depart="1563">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_4" />
+</trip>
+<trip id="4760" color="1,1,0" from="-99231486" to="91181767" depart="1566" />
+  <trip id="8423" color="1,1,0" from="254299142#3" to="91181767" depart="1569">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_29" />
+</trip>
+<trip id="9385" color="1,1,0" from="-99231486" to="254297762#1" depart="1572" />
+  <trip id="10079" color="1,1,0" from="88559680#0" to="204967525" depart="1575" />
+  <trip id="10693" color="1,1,0" from="-24335439#0" to="27029200#2" depart="1578" />
+  <trip id="11314" color="1,1,0" from="224316513#0" to="133755930#1" depart="1581" />
+  <trip id="12248" color="1,1,0" from="-224384018" to="-191296172#0" depart="1584">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="12910" color="1,1,0" from="-255330036#10" to="24310636#2" depart="1587" />
+  <trip id="14161" color="1,1,0" from="47172834#2" to="91181767" depart="1590">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_29" />
+</trip>
+<trip id="17569" color="1,1,0" from="-88572877#6" to="24310636#2" depart="1593">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="1095" color="1,1,0" from="90077241" to="84734271#6" depart="1596" />
+  <trip id="3501" color="1,1,0" from="31129765" to="214545530#0" depart="1599">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_42" />
+</trip>
+<trip id="11507" color="1,1,0" from="91181773#0" to="-133733582#3" depart="1602">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="11797" color="1,1,0" from="-254466686#4" to="-8916792" depart="1605">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_22" />
+</trip>
+<trip id="14256" color="1,1,0" from="47108420#0" to="204967525" depart="1608">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="16429" color="1,1,0" from="27398048#4" to="133755930#1" depart="1611">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_14" />
+</trip>
+<trip id="17260" color="1,1,0" from="91181768#1" to="8917756" depart="1614" />
+  <trip id="244" color="1,1,0" from="-27029200#2" to="91185870#1" depart="1617">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_3" />
+</trip>
+<trip id="334" color="1,1,0" from="-225719777#1" to="50690291#1" depart="1620">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="1589" color="1,1,0" from="90077241" to="254758126#3" depart="1623" />
+  <trip id="3810" color="1,1,0" from="31129765" to="254758127#6" depart="1626" />
+  <trip id="4281" color="1,1,0" from="8918460#0" to="8918874" depart="1629">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="8853" color="1,1,0" from="90077241" to="-111089307#2" depart="1632">
+    
+  </trip>
+  <trip id="10385" color="1,1,0" from="262943781" to="8918874" depart="1635" />
+  <trip id="11490" color="1,1,0" from="37177689#1" to="8915263" depart="1638">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="14220" color="1,1,0" from="144489134#0" to="204967525" depart="1641">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="16048" color="1,1,0" from="-111550911#0" to="50690291#1" depart="1644">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="17450" color="1,1,0" from="144489137#0" to="364480601#0" depart="1647">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="51" color="1,1,0" from="-254297762#2" to="175129396#0" depart="1650">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="303" color="1,1,0" from="48211062#8" to="35977367#2" depart="1653" />
+  <trip id="8805" color="1,1,0" from="-254758120#3" to="8920975#2" depart="1656">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_38" />
+</trip>
+<trip id="5040" color="1,1,0" from="191296172#0" to="8918992#1" depart="1659" />
+  <trip id="7924" color="1,1,0" from="123867455" to="206679802#2" depart="1662">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_0" />
+</trip>
+<trip id="8523" color="1,1,0" from="-256400251#1" to="8916048" depart="1665" />
+  <trip id="9721" color="1,1,0" from="-174822357#0" to="-191296172#0" depart="1668">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="11542" color="1,1,0" from="91181771#3" to="50690291#1" depart="1671" />
+  <trip id="11917" color="1,1,0" from="27054213#6" to="50690291#1" depart="1674">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="12450" color="1,1,0" from="-247966218#7" to="24310636#2" depart="1677">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="13678" color="1,1,0" from="144489137#0" to="-27029246" depart="1680">
+    
+  </trip>
+  <trip id="14759" color="1,1,0" from="254756521#0" to="225847519#4" depart="1683" />
+  <trip id="17589" color="1,1,0" from="144489137#0" to="-133376120#5" depart="1686" />
+  <trip id="435" color="1,1,0" from="225847525" to="254297762#1" depart="1689">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="1281" color="1,1,0" from="90077241" to="-111089307#3" depart="1692">
+    
+  </trip>
+  <trip id="2637" color="1,1,0" from="-100400942#1" to="27570802#1" depart="1695">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="3424" color="1,1,0" from="8919616#0" to="206662304#13" depart="1698" />
+  <trip id="8494" color="1,1,0" from="88597553#0" to="254297762#1" depart="1701" />
+  <trip id="8573" color="1,1,0" from="-47172835" to="133755930#1" depart="1704" />
+  <trip id="9319" color="1,1,0" from="225432462#0" to="8916048" depart="1707">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="11571" color="1,1,0" from="-27167281#1" to="28841115#2" depart="1710">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_23" />
+</trip>
+
+<trip id="13032" color="1,1,0" from="254756525#3" to="133755930#1" depart="1716" />
+  <trip id="13323" color="1,1,0" from="91181770#0" to="225847519#4" depart="1719" />
+  <trip id="13516" color="1,1,0" from="25758528#1" to="154966358" depart="1722" />
+  <trip id="13603" color="1,1,0" from="224200967" to="254297762#1" depart="1725">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="14042" color="1,1,0" from="91181770#0" to="254297762#1" depart="1728" />
+  <trip id="2238" color="1,1,0" from="-254971064#1" to="8915263" depart="1731">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="2684" color="1,1,0" from="-27029204" to="8915759" depart="1734">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="4442" color="1,1,0" from="88572965#0" to="-191296172#0" depart="1737">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="5054" color="1,1,0" from="31129765" to="283537552#0" depart="1740">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="6168" color="1,1,0" from="8922580#0" to="24335483#9" depart="1743">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_15" />
+</trip>
+<trip id="6406" color="1,1,0" from="-88463830" to="50690291#1" depart="1746">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="9527" color="1,1,0" from="191296172#0" to="254758123#0" depart="1749">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_15" />
+</trip>
+<trip id="15947" color="1,1,0" from="111089307#0" to="27029204" depart="1752" />
+  <trip id="16834" color="1,1,0" from="8921938" to="204967525" depart="1755" />
+  <trip id="17080" color="1,1,0" from="8919615#0" to="133781749" depart="1758">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="17511" color="1,1,0" from="254759933#0" to="154966358" depart="1761">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="3606" color="1,1,0" from="8922307" to="27570802#1" depart="1764" />
+  <trip id="4848" color="1,1,0" from="91181771#3" to="50690291#1" depart="1767" />
+  <trip id="6951" color="1,1,0" from="-204967525" to="91181771#3" depart="1770">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="8011" color="1,1,0" from="283537380#0" to="154966358" depart="1773" />
+  <trip id="9486" color="1,1,0" from="23959829#0" to="-8921065" depart="1776" />
+  <trip id="12222" color="1,1,0" from="111049100#0" to="50690291#1" depart="1779" />
+  <trip id="13808" color="1,1,0" from="47172834#2" to="206679802#4" depart="1782" />
+  <trip id="1115" color="1,1,0" from="8919020#0" to="154966358" depart="1785">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="4382" color="1,1,0" from="25657409#9" to="204963631" depart="1788">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="5010" color="1,1,0" from="-204884378#1" to="8918874" depart="1791">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="7207" color="1,1,0" from="-26988030#3" to="8916048" depart="1794" />
+  <trip id="10012" color="1,1,0" from="8916922#3" to="91181767" depart="1797" />
+  <trip id="10628" color="1,1,0" from="-287958606#1" to="154966358" depart="1800">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="11978" color="1,1,0" from="254756521#5" to="204963631" depart="1803" />
+  <trip id="15339" color="1,1,0" from="-224384018" to="24335441" depart="1806">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="15933" color="1,1,0" from="8922560#1" to="254297762#1" depart="1809" />
+  <trip id="8529" color="1,1,0" from="224316521#1" to="50690291#1" depart="1812" />
+  <trip id="10497" color="1,1,0" from="-224384018" to="50690291#1" depart="1815">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="7055" color="1,1,0" from="-8916048" to="225847514" depart="1818">
+    
+  </trip>
+  <trip id="18759" color="1,1,0" from="364480069" to="225847519#4" depart="1821" />
+  <trip id="13340" color="1,1,0" from="8920107" to="48211062#12" depart="1824">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="2373" color="1,1,0" from="254299121#9" to="154966358" depart="1827">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="9573" color="1,1,0" from="p3#0" to="-191296172#0" depart="1830" />
+  <trip id="2408" color="1,1,0" from="111319423" to="254758120#3" depart="1833" />
+  <trip id="3045" color="1,1,0" from="-48211062#12" to="157812260#8" depart="1836">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_35" />
+</trip>
+
+<trip id="32" color="1,1,0" from="254297761#0" to="50690291#1" depart="1842" />
+  <trip id="2466" color="1,1,0" from="86303763#0" to="8916930" depart="1845">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_24" />
+</trip>
+<trip id="13609" color="1,1,0" from="90077241" to="72024282#0" depart="1848">
+    
+  </trip>
+  <trip id="2065" color="1,1,0" from="224199014#0" to="50690291#1" depart="1851">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="3345" color="1,1,0" from="-8916048" to="111050389#3" depart="1854" />
+  <trip id="9002" color="1,1,0" from="-254396709#1" to="-8916767#0" depart="1857" />
+  <trip id="3482" color="1,1,0" from="-255330038#1" to="225847519#4" depart="1860">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="7482" color="1,1,0" from="8917174#1" to="254756525#26" depart="1863" />
+  <trip id="3877" color="1,1,0" from="365815995" to="206662304#13" depart="1866" />
+  <trip id="5253" color="1,1,0" from="-225853133" to="206662304#13" depart="1869">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_0" />
+</trip>
+<trip id="9078" color="1,1,0" from="26944075#0" to="100400947#11" depart="1872" />
+  <trip id="11776" color="1,1,0" from="287958607#3" to="8915263" depart="1875">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="12964" color="1,1,0" from="26769717#0" to="27570786#2" depart="1878" />
+  <trip id="13476" color="1,1,0" from="-224316527" to="27029200#2" depart="1881" />
+  <trip id="17075" color="1,1,0" from="88466052#0" to="24310636#2" depart="1884">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="4406" color="1,1,0" from="8917425" to="50690291#1" depart="1887">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="9562" color="1,1,0" from="-204967525" to="-247966218#2" depart="1890">
+    
+  </trip>
+  <trip id="11831" color="1,1,0" from="262943779" to="50690291#1" depart="1893" />
+  <trip id="14015" color="1,1,0" from="228196396" to="50690291#1" depart="1896">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="17726" color="1,1,0" from="-254396719#1" to="24335483#9" depart="1899">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_15" />
+</trip>
+<trip id="3785" color="1,1,0" from="142972028#1" to="-87297164#2" depart="1902" />
+  <trip id="4219" color="1,1,0" from="8915752" to="24335441" depart="1905">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="5100" color="1,1,0" from="111319423" to="204967525" depart="1908" />
+  <trip id="6251" color="1,1,0" from="283537552#0" to="100400947#11" depart="1911" />
+  <trip id="6702" color="1,1,0" from="-283516316#6" to="50690291#1" depart="1914" />
+  <trip id="10611" color="1,1,0" from="8920734" to="52432936#0" depart="1917" />
+  <trip id="12234" color="1,1,0" from="27397919" to="225847519#4" depart="1920" />
+  <trip id="14632" color="1,1,0" from="8916867#2" to="225847519#4" depart="1923">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="2246" color="1,1,0" from="111089307#0" to="186400366#6" depart="1926">
+    
+  </trip>
+  
+<trip id="8945" color="1,1,0" from="23959829#0" to="-133376120#14" depart="1932">
+    
+  </trip>
+  <trip id="9964" color="1,1,0" from="-254971068" to="204963631" depart="1935" />
+  <trip id="10593" color="1,1,0" from="364480069" to="50690291#1" depart="1938" />
+  <trip id="2027" color="1,1,0" from="86303763#10" to="254448252#1" depart="1941">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="3420" color="1,1,0" from="-202317711" to="27029200#2" depart="1944" />
+  <trip id="5388" color="1,1,0" from="8916792" to="87297164#3" depart="1947">
+    
+  </trip>
+  <trip id="1259" color="1,1,0" from="225806031#0" to="-25373173" depart="1950" />
+  <trip id="5992" color="1,1,0" from="-8916551" to="254756525#26" depart="1953">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_37" />
+</trip>
+<trip id="10140" color="1,1,0" from="-8918994" to="24335441" depart="1956">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="254" color="1,1,0" from="-214545530#7" to="254756525#26" depart="1959">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_37" />
+</trip>
+<trip id="6144" color="1,1,0" from="242896157#1" to="206662304#13" depart="1962">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_0" />
+</trip>
+<trip id="12697" color="1,1,0" from="27397691" to="8915263" depart="1965" />
+  <trip id="16360" color="1,1,0" from="364480601#1" to="24310636#2" depart="1968">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="17570" color="1,1,0" from="254308548#0" to="225847519#4" depart="1971" />
+  <trip id="13588" color="1,1,0" from="-8916922#0" to="254297763#7" depart="1974" />
+  <trip id="18725" color="1,1,0" from="8920780#0" to="204967525" depart="1977" />
+  <trip id="210" color="1,1,0" from="-254756526#1" to="225847519#4" depart="1980" />
+  <trip id="2783" color="1,1,0" from="8920242#2" to="50690291#1" depart="1983" />
+  <trip id="5892" color="1,1,0" from="8916922#1" to="254756525#26" depart="1986">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_37" />
+</trip>
+<trip id="11907" color="1,1,0" from="-133781749" to="24335440#0" depart="1989">
+    
+  </trip>
+  <trip id="5484" color="1,1,0" from="-8922307" to="154966358" depart="1992">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="6956" color="1,1,0" from="186400366#5" to="206679802#4" depart="1995">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_0" />
+</trip>
+<trip id="8806" color="1,1,0" from="30832507#1" to="24310636#2" depart="1998" />
+  <trip id="8830" color="1,1,0" from="-24335439#2" to="204963631" depart="2001" />
+  <trip id="10544" color="1,1,0" from="91181771#5" to="50690291#1" depart="2004" />
+  <trip id="11491" color="1,1,0" from="-51392402#1" to="-8916767#0" depart="2007" />
+  <trip id="16160" color="1,1,0" from="120256350#8" to="254297762#1" depart="2010" />
+  <trip id="16886" color="1,1,0" from="-202485361#1" to="154966358" depart="2013" />
+  
+<trip id="3030" color="1,1,0" from="283537380#2" to="254758120#3" depart="2019">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="13051" color="1,1,0" from="224199014#0" to="254758120#3" depart="2022" />
+  <trip id="14222" color="1,1,0" from="186400366#13" to="50690291#1" depart="2025">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="15144" color="1,1,0" from="287958607#2" to="206662304#13" depart="2028" />
+  <trip id="15209" color="1,1,0" from="27146036#0" to="50690291#1" depart="2031" />
+  <trip id="17535" color="1,1,0" from="255330036#13" to="225847519#4" depart="2034">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+
+<trip id="7064" color="1,1,0" from="32931798#3" to="254297763#7" depart="2040">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_18" />
+</trip>
+<trip id="9712" color="1,1,0" from="gneE12" to="254297763#7" depart="2043" />
+  <trip id="16066" color="1,1,0" from="-51392402#0" to="50690291#1" depart="2046" />
+  <trip id="402" color="1,1,0" from="247966218#6" to="24335441" depart="2049">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+
+<trip id="2239" color="1,1,0" from="90077241" to="111550910#0" depart="2055">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_14" />
+</trip>
+<trip id="2685" color="1,1,0" from="-8919512" to="50690291#1" depart="2058" />
+  <trip id="3243" color="1,1,0" from="88597553#1" to="91181767" depart="2061" />
+  <trip id="5055" color="1,1,0" from="111319423" to="254297762#1" depart="2064">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="6264" color="1,1,0" from="-8916922#0" to="24310636#2" depart="2067" />
+  <trip id="7838" color="1,1,0" from="-p4#0" to="24310636#2" depart="2070">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="12674" color="1,1,0" from="254756521#5" to="154966358" depart="2073" />
+  <trip id="4944" color="1,1,0" from="120256350#3" to="52432936#0" depart="2076" />
+  <trip id="5549" color="1,1,0" from="gneE8" to="133755930#1" depart="2079" />
+ 
+<trip id="15559" color="1,1,0" from="-27570802#1" to="31129732#2" depart="2085">
+    
+  </trip>
+  <trip id="1116" color="1,1,0" from="8915752" to="225847519#4" depart="2088">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="2359" color="1,1,0" from="120256350#3" to="50690291#1" depart="2091" />
+  <trip id="2510" color="1,1,0" from="225806031#0" to="100400947#11" depart="2094" />
+  <trip id="8302" color="1,1,0" from="8919338" to="254448252#1" depart="2097">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="15168" color="1,1,0" from="8919403#0" to="204963631" depart="2100" />
+  <trip id="15773" color="1,1,0" from="86303763#1" to="154966358" depart="2103">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="18154" color="1,1,0" from="-35675861#0" to="8916048" depart="2106">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="7056" color="1,1,0" from="-27167270#2" to="100400947#11" depart="2109">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_37" />
+</trip>
+<trip id="17478" color="1,1,0" from="224199018#4" to="8915263" depart="2112" />
+  <trip id="18760" color="1,1,0" from="-27029204" to="p4#0" depart="2115">
+    
+  </trip>
+  <trip id="741" color="1,1,0" from="-206662304#13" to="8920780#0" depart="2118">
+    
+  </trip>
+  <trip id="7120" color="1,1,0" from="179235241" to="254758120#3" depart="2121">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="15170" color="1,1,0" from="-283537644#2" to="154966358" depart="2124" />
+  <trip id="15727" color="1,1,0" from="-8916551" to="8916048" depart="2127" />
+  <trip id="18544" color="1,1,0" from="179235243#1" to="254971064#0" depart="2130">
+    
+  </trip>
+  <trip id="1595" color="1,1,0" from="-27167281#1" to="225847519#1" depart="2133">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="4267" color="1,1,0" from="283537380#1" to="-8916792" depart="2136">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_22" />
+</trip>
+<trip id="5624" color="1,1,0" from="47172745" to="52432936#0" depart="2139" />
+  <trip id="5693" color="1,1,0" from="27054213#4" to="254758120#3" depart="2142" />
+  <trip id="5724" color="1,1,0" from="283537380#2" to="50690291#1" depart="2145" />
+  <trip id="8385" color="1,1,0" from="254396707#7" to="204963631" depart="2148" />
+  <trip id="10965" color="1,1,0" from="133733590#0" to="50690291#1" depart="2151">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="13011" color="1,1,0" from="254466686#4" to="35977367#2" depart="2154">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_0" />
+</trip>
+<trip id="6542" color="1,1,0" from="91181771#4" to="-8916792" depart="2157">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_22" />
+</trip>
+
+<trip id="12417" color="1,1,0" from="254756521#0" to="133755930#1" depart="2163">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_14" />
+</trip>
+
+<trip id="14035" color="1,1,0" from="-287958606#1" to="154966358" depart="2169">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="16794" color="1,1,0" from="133733593#1" to="50690291#1" depart="2172" />
+  <trip id="17769" color="1,1,0" from="-287958606#1" to="254756525#26" depart="2175" />
+  <trip id="18571" color="1,1,0" from="264874017#3" to="225847519#4" depart="2178">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="2409" color="1,1,0" from="214545530#7" to="8915263" depart="2181" />
+  <trip id="3842" color="1,1,0" from="27397919" to="50690291#1" depart="2184" />
+  <trip id="6186" color="1,1,0" from="91181771#5" to="27029200#2" depart="2187">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="7118" color="1,1,0" from="110361656" to="50690291#1" depart="2190" />
+  <trip id="7334" color="1,1,0" from="-88463830" to="204963631" depart="2193">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="8977" color="1,1,0" from="27397919" to="52432936#0" depart="2196" />
+  <trip id="9027" color="1,1,0" from="-27397937" to="50690291#1" depart="2199" />
+  <trip id="10288" color="1,1,0" from="47108420#0" to="50690291#1" depart="2202">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="13451" color="1,1,0" from="364480601#0" to="254297763#7" depart="2205" />
+  <trip id="15477" color="1,1,0" from="133733590#0" to="52432936#0" depart="2208" />
+  <trip id="4745" color="1,1,0" from="283537380#1" to="154966358" depart="2211" />
+  <trip id="6696" color="1,1,0" from="283534317#8" to="154966358" depart="2214">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="1562" color="1,1,0" from="157812260#8" to="254448252#1" depart="2217" />
+  <trip id="3239" color="1,1,0" from="283537380#0" to="100400947#11" depart="2220" />
+  <trip id="10724" color="1,1,0" from="-204884387#2" to="24335441" depart="2223" />
+  <trip id="202" color="1,1,0" from="254396707#6" to="8919053" depart="2226">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="12852" color="1,1,0" from="254971064#0" to="8918874" depart="2229">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="15642" color="1,1,0" from="8918793#0" to="154966358" depart="2232" />
+  <trip id="8207" color="1,1,0" from="8915752" to="154966358" depart="2235">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="9316" color="1,1,0" from="144489134#0" to="-191296172#0" depart="2238" />
+  <trip id="13544" color="1,1,0" from="31129732#0" to="8918874" depart="2241">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="13610" color="1,1,0" from="30029560#0" to="154966358" depart="2244" />
+  <trip id="17794" color="1,1,0" from="-8918994" to="254758120#3" depart="2247" />
+  <trip id="2008" color="1,1,0" from="-35977367#2" to="-8917959" depart="2250">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_24" />
+</trip>
+<trip id="3612" color="1,1,0" from="242896157#1" to="50690291#1" depart="2253" />
+  <trip id="6431" color="1,1,0" from="27397937" to="254756525#26" depart="2256" />
+  <trip id="14166" color="1,1,0" from="-8917425" to="154966358" depart="2259">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="1049" color="1,1,0" from="-27029200#2" to="157812260#11" depart="2262" />
+  <trip id="3571" color="1,1,0" from="27397937" to="50690291#1" depart="2265" />
+  <trip id="5121" color="1,1,0" from="99231482" to="50690291#1" depart="2268">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="9160" color="1,1,0" from="88559691#4" to="133755930#1" depart="2271" />
+  <trip id="18360" color="1,1,0" from="91181771#3" to="154966358" depart="2274" />
+  <trip id="18762" color="1,1,0" from="-24310636#2" to="256400251#0" depart="2277">
+    
+  </trip>
+  <trip id="1834" color="1,1,0" from="111050389#10" to="206662304#13" depart="2280" />
+  <trip id="2363" color="1,1,0" from="207761516" to="204967525" depart="2283" />
+  <trip id="5254" color="1,1,0" from="91185861#0" to="24310636#2" depart="2286">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="5685" color="1,1,0" from="329607867" to="30035682#1" depart="2289" />
+  <trip id="6308" color="1,1,0" from="88463829#0" to="133755930#1" depart="2292">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_14" />
+</trip>
+<trip id="8308" color="1,1,0" from="88466052#0" to="225847519#4" depart="2295">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="15195" color="1,1,0" from="224200967" to="24335483#9" depart="2298" />
+  <trip id="16113" color="1,1,0" from="23959829#0" to="23883760" depart="2301">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_22" />
+</trip>
+<trip id="9563" color="1,1,0" from="8915759" to="24335441" depart="2304" />
+  <trip id="3390" color="1,1,0" from="27167762" to="283537380#0" depart="2307">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_8" />
+</trip>
+<trip id="3478" color="1,1,0" from="31129765" to="-29059494" depart="2310">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_26" />
+</trip>
+<trip id="3786" color="1,1,0" from="-35977367#1" to="254448252#1" depart="2313">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="4832" color="1,1,0" from="47172745" to="225847519#4" depart="2316" />
+  <trip id="7774" color="1,1,0" from="225518502#3" to="-8916792" depart="2319">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_22" />
+</trip>
+<trip id="12391" color="1,1,0" from="110361656" to="8915263" depart="2322" />
+  <trip id="2247" color="1,1,0" from="-26943758#1" to="254297762#1" depart="2325">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="2297" color="1,1,0" from="-27029200#2" to="247960234#1" depart="2328">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="8946" color="1,1,0" from="254396707#6" to="224199018#3" depart="2331">
+    
+  </trip>
+  <trip id="182" color="1,1,0" from="-133755930#1" to="26938124#3" depart="2334">
+    
+  </trip>
+  <trip id="2028" color="1,1,0" from="142972028#1" to="-27397937" depart="2337">
+    
+  </trip>
+  <trip id="5389" color="1,1,0" from="26938338#0" to="-8916792" depart="2340" />
+  <trip id="8897" color="1,1,0" from="88463830" to="24335483#9" depart="2343" />
+  <trip id="8955" color="1,1,0" from="-202485361#1" to="204963631" depart="2346">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="7112" color="1,1,0" from="225518502#3" to="24335483#9" depart="2349" />
+  <trip id="7768" color="1,1,0" from="27397919" to="254297763#7" depart="2352">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_18" />
+</trip>
+<trip id="8957" color="1,1,0" from="8919328#1" to="154966358" depart="2355" />
+  <trip id="1054" color="1,1,0" from="86303763#0" to="283534317#6" depart="2358">
+    
+  </trip>
+  <trip id="4012" color="1,1,0" from="329596844#1" to="50690291#1" depart="2361">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="8134" color="1,1,0" from="8918460#0" to="254297763#7" depart="2364">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_18" />
+</trip>
+<trip id="9033" color="1,1,0" from="364480068#0" to="254448252#1" depart="2367" />
+  <trip id="11890" color="1,1,0" from="-23883761" to="254758131#2" depart="2370">
+    
+  </trip>
+  <trip id="14013" color="1,1,0" from="144489134#0" to="50690291#1" depart="2373" />
+  <trip id="9829" color="1,1,0" from="133733590#0" to="27570802#1" depart="2376">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="10644" color="1,1,0" from="287958607#4" to="50690291#1" depart="2379" />
+  <trip id="10830" color="1,1,0" from="179235243#1" to="154966358" depart="2382" />
+  <trip id="12894" color="1,1,0" from="254306572#0" to="50690291#1" depart="2385">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="16392" color="1,1,0" from="224199014#0" to="154966358" depart="2388">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="1329" color="1,1,0" from="-23883761" to="254758120#0" depart="2391">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="1540" color="1,1,0" from="133733590#0" to="91181767" depart="2394" />
+  <trip id="3356" color="1,1,0" from="27398045#1" to="91181758#0" depart="2397" />
+  <trip id="9586" color="1,1,0" from="-283537644#2" to="50690291#1" depart="2400" />
+  <trip id="9703" color="1,1,0" from="100400947#9" to="8917756" depart="2403" />
+  <trip id="11908" color="1,1,0" from="191296172#0" to="204967525" depart="2406" />
+  <trip id="2751" color="1,1,0" from="-24335483#9" to="8916922#1" depart="2409">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_44" />
+</trip>
+<trip id="5748" color="1,1,0" from="8922307" to="154966358" depart="2412" />
+  <trip id="12116" color="1,1,0" from="27146036#2" to="154966358" depart="2415">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="1956" color="1,1,0" from="88597575#1" to="-191296172#0" depart="2418">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="5718" color="1,1,0" from="283537380#0" to="30035682#1" depart="2421" />
+  <trip id="6138" color="1,1,0" from="88463829#0" to="24310636#2" depart="2424" />
+  <trip id="10374" color="1,1,0" from="-8916184" to="27570786#2" depart="2427" />
+  <trip id="13680" color="1,1,0" from="-133781759#0" to="254448252#1" depart="2430" />
+  <trip id="980" color="1,1,0" from="224384019#0" to="27570786#2" depart="2433">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="9266" color="1,1,0" from="8916922#0" to="50690291#1" depart="2436">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="13838" color="1,1,0" from="-254396719#1" to="52432936#0" depart="2439" />
+  <trip id="16880" color="1,1,0" from="202485364" to="204967525" depart="2442" />
+  <trip id="1352" color="1,1,0" from="90077241" to="25657409#19" depart="2445" />
+  <trip id="3237" color="1,1,0" from="24310636#1" to="27570802#1" depart="2448" />
+  <trip id="9606" color="1,1,0" from="254306572#0" to="254297763#7" depart="2451" />
+  <trip id="9738" color="1,1,0" from="27146036#1" to="-133733582#3" depart="2454" />
+  <trip id="9848" color="1,1,0" from="133755930#0" to="24335441" depart="2457" />
+  <trip id="12152" color="1,1,0" from="88466052#0" to="8917756" depart="2460">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="4038" color="1,1,0" from="8919338" to="50690291#1" depart="2463">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="5550" color="1,1,0" from="-204967525" to="86303763#6" depart="2466" />
+  <trip id="6615" color="1,1,0" from="90077241" to="254758114#1" depart="2469">
+    
+  </trip>
+  <trip id="11338" color="1,1,0" from="8922560#0" to="225847519#4" depart="2472" />
+  <trip id="12298" color="1,1,0" from="225518502#3" to="24310636#2" depart="2475">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="12754" color="1,1,0" from="133733593#0" to="-133733582#3" depart="2478" />
+  <trip id="14000" color="1,1,0" from="99231468#0" to="27570786#2" depart="2481">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="15560" color="1,1,0" from="27093008#1" to="206679802#4" depart="2484" />
+  <trip id="17300" color="1,1,0" from="-283537552#1" to="133755930#1" depart="2487" />
+  <trip id="1426" color="1,1,0" from="27398048#4" to="-8916792" depart="2490">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_22" />
+</trip>
+<trip id="7666" color="1,1,0" from="111319423" to="27029204" depart="2493" />
+  <trip id="8203" color="1,1,0" from="-225432462#1" to="50690291#1" depart="2496">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="12362" color="1,1,0" from="91181771#4" to="8915263" depart="2499">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="15779" color="1,1,0" from="8922024#0" to="50690291#1" depart="2502" />
+  <trip id="15883" color="1,1,0" from="202317709" to="27570786#2" depart="2505">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="17372" color="1,1,0" from="-27397937" to="27029200#2" depart="2508" />
+  <trip id="6433" color="1,1,0" from="133781759#1" to="133755930#1" depart="2511">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_14" />
+</trip>
+<trip id="18761" color="1,1,0" from="-35675861#1" to="204963631" depart="2514">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="12418" color="1,1,0" from="-254396709#1" to="30454437" depart="2517" />
+  <trip id="18572" color="1,1,0" from="-85789165" to="-191296172#0" depart="2520">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="18763" color="1,1,0" from="-228186482#1" to="133781749" depart="2523" />
+  <trip id="7283" color="1,1,0" from="-242896157#0" to="27029200#2" depart="2526">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="12098" color="1,1,0" from="-283537644#1" to="91181767" depart="2529" />
+  <trip id="18545" color="1,1,0" from="99231475" to="154966358" depart="2532">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="1797" color="1,1,0" from="377646101#2" to="100400947#11" depart="2535" />
+  <trip id="3161" color="1,1,0" from="-133781749" to="262943780#0" depart="2538" />
+  <trip id="4860" color="1,1,0" from="99231460" to="-191296172#0" depart="2541">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="7052" color="1,1,0" from="26938293#0" to="8916048" depart="2544">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="10067" color="1,1,0" from="8919338" to="30035682#1" depart="2547" />
+  <trip id="12788" color="1,1,0" from="-254971068" to="254448252#1" depart="2550">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="903" color="1,1,0" from="225806031#0" to="24335483#9" depart="2553" />
+  <trip id="1369" color="1,1,0" from="144489137#0" to="100400947#5" depart="2556">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_23" />
+</trip>
+<trip id="2472" color="1,1,0" from="111089307#0" to="91181758#4" depart="2559">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_19" />
+</trip>
+<trip id="3787" color="1,1,0" from="-35977367#2" to="228196396" depart="2562">
+    
+  </trip>
+  <trip id="5835" color="1,1,0" from="364480069" to="50690291#1" depart="2565">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="7523" color="1,1,0" from="-225432462#1" to="254756525#26" depart="2568" />
+  <trip id="8544" color="1,1,0" from="-8920242#1" to="50690291#1" depart="2571" />
+  <trip id="11110" color="1,1,0" from="254306572#0" to="204967525" depart="2574">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="11173" color="1,1,0" from="8918994" to="27570786#2" depart="2577">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="8947" color="1,1,0" from="224199013#2" to="50690291#1" depart="2580" />
+  <trip id="13117" color="1,1,0" from="27397715" to="154966358" depart="2583">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="183" color="1,1,0" from="90077241" to="254758120#2" depart="2586">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="2029" color="1,1,0" from="91181771#4" to="204963631" depart="2589">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_16" />
+</trip>
+<trip id="16673" color="1,1,0" from="283512618#5" to="91181767" depart="2592">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_29" />
+</trip>
+<trip id="2457" color="1,1,0" from="8921907" to="254448252#1" depart="2595" />
+  <trip id="14777" color="1,1,0" from="-224384018" to="50690291#1" depart="2598" />
+  <trip id="15534" color="1,1,0" from="52432938#1" to="254297762#1" depart="2601">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="17532" color="1,1,0" from="-23883760" to="26938124#6" depart="2604">
+    
+  </trip>
+  <trip id="1055" color="1,1,0" from="86303763#0" to="-88597577#2" depart="2607" />
+  <trip id="3391" color="1,1,0" from="283537380#2" to="24335441" depart="2610" />
+  <trip id="3694" color="1,1,0" from="364480069" to="-191296172#0" depart="2613" />
+  <trip id="6075" color="1,1,0" from="31129765" to="99231460" depart="2616">
+    
+  </trip>
+  <trip id="1071" color="1,1,0" from="-254758120#3" to="8920242#2" depart="2619">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_42" />
+</trip>
+<trip id="5677" color="1,1,0" from="-88559702#1" to="24310636#2" depart="2622" />
+  <trip id="16853" color="1,1,0" from="-8921907" to="100400947#11" depart="2625" />
+  <trip id="1810" color="1,1,0" from="225806031#0" to="283537552#1" depart="2628">
+    
+  </trip>
+  <trip id="2752" color="1,1,0" from="99231482" to="24335441" depart="2631" />
+  <trip id="4176" color="1,1,0" from="85789166#0" to="-8916767#0" depart="2634">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="6569" color="1,1,0" from="225518502#2" to="254297762#1" depart="2637">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+<trip id="8024" color="1,1,0" from="88466052#1" to="254297762#1" depart="2640" />
+  <trip id="16114" color="1,1,0" from="-28518571#0" to="254297762#1" depart="2643" />
+  <trip id="16806" color="1,1,0" from="120813417" to="48211062#12" depart="2646">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_20" />
+</trip>
+
+<trip id="6353" color="1,1,0" from="283537552#0" to="225847519#4" depart="2652" />
+  <trip id="7880" color="1,1,0" from="-8922307" to="254448252#1" depart="2655" />
+  <trip id="8167" color="1,1,0" from="225518502#0" to="-8916792" depart="2658" />
+  <trip id="13013" color="1,1,0" from="88466055#0" to="27029204" depart="2661" />
+  <trip id="13767" color="1,1,0" from="28843496" to="50690291#1" depart="2664">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_40" />
+</trip>
+<trip id="15864" color="1,1,0" from="8918994" to="-191296172#0" depart="2667" />
+  <trip id="17845" color="1,1,0" from="-254466686#4" to="254758120#3" depart="2670" />
+  <trip id="2209" color="1,1,0" from="27166466#3" to="206662304#13" depart="2673">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_0" />
+</trip>
+<trip id="5403" color="1,1,0" from="224199013#1" to="48211062#12" depart="2676" />
+  <trip id="9739" color="1,1,0" from="-8916922#2" to="8915263" depart="2679" />
+  <trip id="13962" color="1,1,0" from="35675861#0" to="30454437" depart="2682" />
+  <trip id="16178" color="1,1,0" from="283512618#0" to="154966358" depart="2685" />
+  <trip id="18398" color="1,1,0" from="-8916922#2" to="154966358" depart="2688">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="5551" color="1,1,0" from="26938124#6" to="24335483#9" depart="2691" />
+  <trip id="5804" color="1,1,0" from="254466695#0" to="154966358" depart="2694">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="11696" color="1,1,0" from="27398032#3" to="24310636#2" depart="2700">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="18178" color="1,1,0" from="24245406" to="254448252#1" depart="2703" />
+  <trip id="742" color="1,1,0" from="254297763#0" to="154966358" depart="2706" />
+  <trip id="13118" color="1,1,0" from="-8916048" to="283516316#0" depart="2709">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_30" />
+</trip>
+<trip id="11891" color="1,1,0" from="-287958606#3" to="8916048" depart="2712">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_17" />
+</trip>
+<trip id="17533" color="1,1,0" from="254758126#2" to="50690291#1" depart="2715" />
+  <trip id="6076" color="1,1,0" from="-35675861#1" to="24310636#2" depart="2718" />
+  <trip id="1811" color="1,1,0" from="255330036#10" to="8915263" depart="2721">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+<trip id="5552" color="1,1,0" from="-133755930#1" to="254758126#0" depart="2724">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_27" />
+</trip>
+<trip id="18497" color="1,1,0" from="191296172#0" to="111550910#2" depart="2727">
+    
+  </trip>
+  <trip id="18498" color="1,1,0" from="133755923#1" to="154966358" depart="2730">
+  <stop duration="1200" key="parking.capacity.weight" value="500" parkingArea="fakeparking_10" />
+</trip>
+</routes>
